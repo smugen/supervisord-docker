@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "supervisord-eventlistener": "*",
+    "underscore": "*",
+    "winston": "*",
+    "dockerode": "*"
+  }
+}
